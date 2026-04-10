@@ -1,4 +1,4 @@
-# Python Async Keylogger
+# Simple Python Keylogger
 
 ## Description
 A lightweight keyboard event monitoring tool built with OOP principles for educational cybersecurity research.
