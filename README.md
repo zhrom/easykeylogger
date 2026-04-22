@@ -13,7 +13,4 @@ A lightweight keyboard event monitoring tool built with OOP principles for educa
 ```bash
 pip install -r requirements.txt
 python keylogger.py --interval 30
-``` 
-## Disclaimer
-
-⚠️ This project is for educational purposes only. Unauthorized use is strictly prohibited.
+``` 
