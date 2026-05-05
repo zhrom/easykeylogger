@@ -11,6 +11,8 @@ A lightweight keyboard event monitoring tool built with OOP principles for educa
 
 ## How to Run
 ```bash
+git clone https://github.com/zhrom/easykeylogger
+cd easykeylogger
 pip install -r requirements.txt
 python keylogger.py --interval 30
-``` 
+``` 
